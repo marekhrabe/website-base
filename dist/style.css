@@ -1,0 +1,14 @@
+/*!
+ * website-base
+ * http://marekhrabe.github.io/website-base
+ * team@madebysource.com
+ * 
+ * Copyright 2013 Piffle LLC - All Rights Reserved
+ * 
+ * Author:
+ * Marek Hrabe <marekhrabe@abdoc.net> (http://github.com/marekhrabe)
+ * 
+ * Build v1.0.0 - 2013-11-07
+ */
+
+*{margin:0;padding:0;outline:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.headerfont{font-family:chaparral-pro,sans-serif;font-style:normal;font-weight:300}html,body{-webkit-font-smoothing:antialiased;font-family:'Helvetica Neue',Helvetica,sans-serif;min-width:600px}.container{width:600px;margin:0 auto;position:relative}a{text-decoration:none}html{background-color:#fff}h1,h2,h3{font-family:chaparral-pro,sans-serif;font-style:normal;font-weight:300}.header{background-color:#d3015d;height:300px}.header .container{padding-top:80px}.header h1{font-size:100px;color:#fff}.header h2{font-size:20px;color:#fff;font-style:italic;font-weight:400}.header h2 a{color:#fff;border-bottom:1px solid #fff;display:inline-block;height:22px}.content{padding-top:40px}.content h1{font-weight:400;margin-bottom:20px}.content p{margin-bottom:20px;font-size:15px}.content ul{list-style:none}.content ul li{margin-bottom:10px;font-size:15px}.content ul li:before{content:'—';margin-right:5px}
