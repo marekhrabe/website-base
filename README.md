@@ -10,13 +10,15 @@ edit `package.json`
 
 ## development
 
+run server from `dist` folder
+
 use just `grunt` to build page once
 
 alternatively you can use `grunt watch` for watching filechanges and build page when needed
 
 ## deployment
 
-deploying `index.html`, `assets` and `dist` is enough. no need for extra dependencies
+deploy just `dist` folder
 
 ## license
 
