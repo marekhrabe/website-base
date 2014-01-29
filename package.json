@@ -3,6 +3,7 @@
     "description": "A simple project to quickstart single-page coding.",
     "version": "1.0.0",
     "author": "Marek Hrabe <marekhrabe@abdoc.net> (http://github.com/marekhrabe)",
+    "contributors": ["Patrik Holcak <patrikholcak@abdoc.net> (http://github.com/patrikholcak)"],
     "homepage": "http://marekhrabe.github.io/website-base",
     "main": "index.html",
     "private": true,
